@@ -1,0 +1,4 @@
+---
+plugin: community.libvirt.libvirt
+#uri: 'qemu:///system'
+uri: 'qemu+ssh://root@10.0.0.73/system'
